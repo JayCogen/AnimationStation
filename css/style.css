@@ -1,0 +1,10 @@
+body {
+    background: #5abcc7;
+}
+
+#horiz_png {
+    background: url('images/big_tree_sprite.png');
+    height: 225px;
+    width: 120px;
+    margin: 10px auto 0;
+}
