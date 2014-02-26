@@ -25,6 +25,16 @@ body {
     text-shadow: none;
 }
 
+h1 {
+    font-size: 128px;
+    text-transform: uppercase;
+    margin: 100px 0;
+    text-align: center;
+    line-height: 100px;
+    color: #3D9CA5;
+    text-shadow: 0 1px 1px #327d84;
+}
+
 hr {
     display: block;
     height: 1px;
