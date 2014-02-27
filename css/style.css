@@ -2,9 +2,10 @@ body {
     background: #5abcc7;
 }
 
+
 #trees {
-	width: 312px;
-	margin: 10px auto 0;
+	width: 292px;
+	margin: 50px auto 0;
 	clear: both;
 	height: 225px;
 }
@@ -13,7 +14,7 @@ body {
     background: url('images/little_tree_sprite.png');
     height: 180px;
     width: 96px;
-    margin: 15px -10px 0 0;
+    margin: -5px -10px 0 0;
     float: left;
 }
 
@@ -21,7 +22,7 @@ body {
     background: url('images/big_tree_sprite.png');
     height: 225px;
     width: 120px;
-    margin: 0;
+    margin: -25px 0 0;
     float: left;
 }
 
@@ -29,6 +30,6 @@ body {
     background: url('images/little_tree_sprite.png');
     height: 180px;
     width: 96px;
-    margin: 5px 0 0 -10px;
+    margin: -5px 0 0 -10px;
     float: left;
 }

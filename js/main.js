@@ -1,5 +1,6 @@
 $(document).ready( function() {
 
+/* ANIMATION STATION ACTION */
 
 	setTimeout(function(){
 		$('#lil_tree1').animationStation({
@@ -16,5 +17,6 @@ $(document).ready( function() {
 	    	fps : 14
 	    });
     },800);
+
 
 });
