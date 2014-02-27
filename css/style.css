@@ -2,9 +2,33 @@ body {
     background: #5abcc7;
 }
 
-#horiz_png {
+#trees {
+	width: 312px;
+	margin: 10px auto 0;
+	clear: both;
+	height: 225px;
+}
+
+#lil_tree1 {
+    background: url('images/little_tree_sprite.png');
+    height: 180px;
+    width: 96px;
+    margin: 15px -10px 0 0;
+    float: left;
+}
+
+#big_tree1 {
     background: url('images/big_tree_sprite.png');
     height: 225px;
     width: 120px;
-    margin: 10px auto 0;
+    margin: 0;
+    float: left;
+}
+
+#lil_tree2 {
+    background: url('images/little_tree_sprite.png');
+    height: 180px;
+    width: 96px;
+    margin: 5px 0 0 -10px;
+    float: left;
 }
