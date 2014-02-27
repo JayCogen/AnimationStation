@@ -18,5 +18,6 @@ $(document).ready( function() {
 	    });
     },800);
 
+/* OTHER STUFF */
 
 });
